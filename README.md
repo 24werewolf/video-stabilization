@@ -1,6 +1,6 @@
 # video-stabilization
 ```
-1：整理一个关于video-stabilization 的资料，希望兴趣的人可以一起讨论(主要关注方向 使用端到端的网络去做video-stabiliation)
+1：整理一个关于video-stabilization 的资料，希望兴趣的人可以一起讨论
 
 2：目前做deep video-stabilization 的主要有两篇文章:《Deep Online Video Stabilization With Multi-Grid》 
 源码https://github.com/cxjyxxme/deep-online-video-stabilization(目前这个我已经调试通过，后面会公布自己调试的时候遇到的坑)

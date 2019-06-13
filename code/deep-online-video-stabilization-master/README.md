@@ -1,4 +1,4 @@
-# Deep Online Video Stabilization with Multi-Grid Warping Transformation Learning
+# 对　Deep Online Video Stabilization with Multi-Grid Warping Transformation Learning　代码的解读
 https://ieeexplore.ieee.org/document/8554287
 该代码是对deep-online-video-stablinzation 源码的调试
 ## Prerequisites

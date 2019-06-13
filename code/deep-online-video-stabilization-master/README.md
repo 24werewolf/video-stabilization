@@ -1,6 +1,6 @@
 # Deep Online Video Stabilization with Multi-Grid Warping Transformation Learning
 https://ieeexplore.ieee.org/document/8554287
-
+该代码是对deep-online-video-stablinzation 源码的调试
 ## Prerequisites
 - Linux
 - Python 3
@@ -13,7 +13,9 @@ https://ieeexplore.ieee.org/document/8554287
 ### Installation
 Download data.zip at https://cg.cs.tsinghua.edu.cn/people/~miao/stabnet/data.zip.
 
+这个地方flow ｓet 0 ,不知道是不是很因为flow 设置为０了，最后的训练出来的结果并不是特别好。
 This dataset does not contain flow information(set to 0). If you need to use data containing flow information, you can use the TVL1 algorithm to generate it.
+因为数据被处理成tfrecord格式，所以需要把训集中的stabel 文件夹和　ubstable 文件夹中的视频转成图片(jpg格式)，每帧都需要保存的。
 ```bash
 unzip data.zip
 mv data/models deep-online-video-stabilization/

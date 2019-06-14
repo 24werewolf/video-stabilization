@@ -8,6 +8,7 @@
 ３：ｃｖｐｒ２０１９的文章《Yu_Robust_Video_Stabilization_by_Optimization_in_CNN_Weight_Space_CVPR_2019_paper》，
 这篇文章应该是目前用ｄｅｅｐ的方法做ｖｉｄｅｏ　ｓｔａｂｉｌｉｚａｔｉｏｎ　最好的结果
 
-3：这个专栏对video stablization 进行了一个清晰的整理 
+４：这个专栏对video stablization 进行了一个清晰的整理 
 http://www.ipcv.org/videostablization/
+
 ```
